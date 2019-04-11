@@ -1,1 +1,1 @@
-This is a test app about python.
+This is a test app about learing python.
